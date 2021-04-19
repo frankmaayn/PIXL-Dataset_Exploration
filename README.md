@@ -29,5 +29,5 @@ RR4 Exploration | Strelley Pool Left Exploration | Strelley Pool Right Explorati
 
 ## Tools
 ```
-Jupyter Notebook | VSCode
+Jupyter Notebook | VSCode | Python | Numpy | Matplotlib | Seaborn | Pandas
 ```
