@@ -1,7 +1,8 @@
 # PIXL Dataset Exploration
 
 ```
-This repository uses jupyter notebook to explore the dataset given to us by JPL using a variety of methods.
+This repository uses jupyter notebook to explore the dataset given to us 
+by JPL using a variety of methods.
 
 ```
 
